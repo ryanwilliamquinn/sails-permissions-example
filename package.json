@@ -23,7 +23,7 @@
     "rc": "~0.5.0",
     "sails": "~0.11.0",
     "sails-disk": "~0.10.0",
-    "sails-permissions": "^1.2.0"
+    "sails-permissions": "latest"
   },
   "scripts": {
     "debug": "node debug app.js",
