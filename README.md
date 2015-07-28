@@ -9,4 +9,4 @@ To log in, make a post request to /auth/local, with the body parameters: identif
 
 The admin user credentials default to admin/admin1234.  See `config/bootstrap.js` for other user credentials.  
 
-The bootstrap file also contains some example roles and permissions.  You can find a full walkthrough of this example [here](http://threeninetyfive.net/blog/2015/07/14/sails-permissions-by-example/).
+The bootstrap file also contains some example roles and permissions.  You can find a full walkthrough of this app [here](http://threeninetyfive.net/blog/2015/07/14/sails-permissions-by-example/).
